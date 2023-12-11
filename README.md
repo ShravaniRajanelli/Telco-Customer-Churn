@@ -1,6 +1,15 @@
 # Telco-Customer-Churn
 Welcome to the Telco Customer Churn Analysis project! In this project, we explore and analyze the Telco Customer Churn dataset to gain insights into factors influencing customer churn. The dataset provides information about various features of telecom customers, such as their contract details, usage patterns, and whether they churned or not.
 
+## Source Link
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+## Problem Statement
+The goal of this project is to analyze the Telco Customer Churn dataset and derive meaningful insights into the factors influencing customer churn. Potential analysis areas include:
+* Identifying features strongly correlated with customer churn.
+* Analyzing the impact of contract type and payment method on churn.
+* Developing a predictive model for customer churn.
+
 ## Dataset Overview
 The Telco Customer Churn dataset consists of the following key columns:
 
@@ -28,12 +37,6 @@ The Telco Customer Churn dataset consists of the following key columns:
 |TotalCharges |The total amount charged to the customer|
 |Churn |Whether the customer churned or not (Yes or No)|
 
-## Problem Statement
-The goal of this project is to analyze the Telco Customer Churn dataset and derive meaningful insights into the factors influencing customer churn. Potential analysis areas include:
-
-* Identifying features strongly correlated with customer churn.
-* Analyzing the impact of contract type and payment method on churn.
-* Developing a predictive model for customer churn.
   
 ## Analysis Steps
 ### Data Cleaning:
@@ -53,8 +56,6 @@ Detailed analysis results, visualizations, and insights can be found in the Jupy
 Python 3.x
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter.
 
-## Source Link
-https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
 
